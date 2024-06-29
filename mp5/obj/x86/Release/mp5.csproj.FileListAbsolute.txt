@@ -1,0 +1,13 @@
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\bin\Release\mp5.exe
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\bin\Release\mp5.pdb
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\bin\Release\NAudio.dll
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\bin\Release\NAudio.WindowsMediaFormat.dll
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\bin\Release\NAudio.xml
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Release\mp5.csprojResolveAssemblyReference.cache
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Release\mp5.Form1.resources
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Release\mp5.Properties.Resources.resources
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Release\mp5.csproj.GenerateResource.Cache
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Release\mp5.exe
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Release\mp5.pdb
+C:\Users\Killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Release\mp5.Authors.resources
+C:\Users\Killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Release\mp5.Wav.resources

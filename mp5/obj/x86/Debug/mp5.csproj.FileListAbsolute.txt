@@ -1,0 +1,42 @@
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\bin\Debug\mp5.exe
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\bin\Debug\mp5.pdb
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\bin\Debug\NAudio.dll
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\bin\Debug\NAudio.WindowsMediaFormat.dll
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\bin\Debug\NAudio.xml
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Debug\mp5.Form1.resources
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Debug\mp5.Properties.Resources.resources
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Debug\mp5.csproj.GenerateResource.Cache
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Debug\mp5.exe
+c:\users\killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Debug\mp5.pdb
+C:\Users\Killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Debug\mp5.csprojResolveAssemblyReference.cache
+C:\Users\Killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Debug\mp5.Authors.resources
+C:\Users\Killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Debug\mp5.Wav.resources
+C:\Users\Killy\documents\visual studio 2010\Projects\mp5\mp5\obj\x86\Debug\mp5.opcje.resources
+G:\mp5\mp5\obj\x86\Debug\mp5.exe
+G:\mp5\mp5\bin\Debug\mp5.exe
+G:\mp5\mp5\bin\Debug\mp5.pdb
+G:\mp5\mp5\bin\Debug\NAudio.xml
+G:\mp5\mp5\obj\x86\Debug\mp5.csprojResolveAssemblyReference.cache
+G:\mp5\mp5\obj\x86\Debug\mp5.Authors.resources
+G:\mp5\mp5\obj\x86\Debug\mp5.Form1.resources
+G:\mp5\mp5\obj\x86\Debug\mp5.opcje.resources
+G:\mp5\mp5\obj\x86\Debug\mp5.Properties.Resources.resources
+G:\mp5\mp5\obj\x86\Debug\mp5.Wav.resources
+G:\mp5\mp5\obj\x86\Debug\mp5.csproj.GenerateResource.Cache
+G:\mp5\mp5\obj\x86\Debug\mp5.pdb
+F:\mp5\mp5\obj\x86\Debug\mp5.exe
+F:\mp5\mp5\obj\x86\Debug\mp5.pdb
+E:\projekty\mp5\mp5\bin\Debug\mp5.exe
+E:\projekty\mp5\mp5\bin\Debug\mp5.pdb
+E:\projekty\mp5\mp5\bin\Debug\NAudio.xml
+E:\projekty\mp5\mp5\obj\x86\Debug\mp5.csproj.AssemblyReference.cache
+E:\projekty\mp5\mp5\obj\x86\Debug\mp5.Authors.resources
+E:\projekty\mp5\mp5\obj\x86\Debug\mp5.Form1.resources
+E:\projekty\mp5\mp5\obj\x86\Debug\mp5.opcje.resources
+E:\projekty\mp5\mp5\obj\x86\Debug\mp5.Properties.Resources.resources
+E:\projekty\mp5\mp5\obj\x86\Debug\mp5.Wav.resources
+E:\projekty\mp5\mp5\obj\x86\Debug\mp5.csproj.GenerateResource.cache
+E:\projekty\mp5\mp5\obj\x86\Debug\mp5.csproj.CoreCompileInputs.cache
+E:\projekty\mp5\mp5\obj\x86\Debug\mp5.csproj.CopyComplete
+E:\projekty\mp5\mp5\obj\x86\Debug\mp5.exe
+E:\projekty\mp5\mp5\obj\x86\Debug\mp5.pdb
